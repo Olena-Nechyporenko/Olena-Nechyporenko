@@ -1,6 +1,4 @@
 <p align="center"> Hello👋,I`m Olena !</p>
-### 
-
 
 ## 📲 My Links
 - 🎨 My latest project is [Task Pro](https://alexandrbig1.github.io/task-pro/)
@@ -29,9 +27,4 @@
 <img src="" alt="Skills" align="left" width="60" height="80"/> 
 
 
-
-## 📰 Social links
- - <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="Skills" align="left" width="10" height="10"/> [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)
- - [Telegram](https://t.me/alyona_alyonaaaaa)
- - [Email](olenan0309@gmail.com)
 

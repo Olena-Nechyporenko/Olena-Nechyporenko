@@ -1,4 +1,4 @@
-<p align="center"> 🏠 Hello👋,I`m Olena !</p>
+<p align="center"> Hello👋,I`m Olena !</p>
 ### 
 
 
@@ -25,6 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" alt="Skills" align="left" width="60" height="80"/> 
+<img src="" alt="Skills" align="left" width="60" height="80"/> 
 
 <br>
 <br>
@@ -33,7 +35,7 @@
 
 
 ## 📰 Social links
- - [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)
+ - <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="Skills" align="left" width="60" height="80"/> [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)
  - [Telegram](https://t.me/alyona_alyonaaaaa)
  - [Email](olenan0309@gmail.com)
 

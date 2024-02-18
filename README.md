@@ -1,10 +1,11 @@
-<p align="center"># 🏠 Hello👋,I`m Olena !</p>
+<p align="center"> 🏠 Hello👋,I`m Olena !</p>
 ### 
 
 
 ## 📲 My Links
-
 - 🎨 My latest project is [Task Pro](https://alexandrbig1.github.io/task-pro/)
+
+
 
 
 ## 🔨 Skills
@@ -29,6 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
 
 <br><br><br>
+
+
 
 ## 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)

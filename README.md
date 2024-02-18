@@ -28,14 +28,10 @@
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" alt="Skills" align="left" width="60" height="80"/> 
 <img src="" alt="Skills" align="left" width="60" height="80"/> 
 
-<br>
-<br>
-<br>
-
 
 
 ## 📰 Social links
- - <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="Skills" align="left" width="60" height="80"/> [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)
+ - <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="Skills" align="left" width="10" height="10"/> [LinkedIn](https://www.linkedin.com/in/olena-nechyporenko/)
  - [Telegram](https://t.me/alyona_alyonaaaaa)
  - [Email](olenan0309@gmail.com)
 

@@ -5,9 +5,6 @@
 ## 📲 My Links
 - 🎨 My latest project is [Task Pro](https://alexandrbig1.github.io/task-pro/)
 
-
-
-
 ## 🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -29,7 +26,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 
 

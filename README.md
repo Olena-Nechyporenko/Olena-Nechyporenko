@@ -77,6 +77,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Olena-Nechyporenko/Olena-Nechyporenko/output/snake.svg" alt="Snake animation" />
 
-###

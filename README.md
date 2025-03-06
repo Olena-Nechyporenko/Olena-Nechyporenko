@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Frontend developer ✨ Code, coffee, and creativity ☕💻 Turning ideas into responsive,  modern, and user-friendly websites.</h2>
+<h2 align="left">Frontend developer ✨ Code, coffee, and creativity ☕💻 Turning ideas into responsive,  modern, and user-friendly web apps.</h2>
 
 ###
 
